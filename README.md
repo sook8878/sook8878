@@ -1,5 +1,8 @@
 ### Hi there 👋
 민연준 입니다
+
+  [![myj's github stats](https://github-readme-stats.vercel.app/api?username=sook8878)](https://github.com/sook8878/github-readme-stats)
+
 <!--
 **sook8878/sook8878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

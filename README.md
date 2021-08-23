@@ -1,5 +1,5 @@
 ### Hi there 👋
-민연준 입니다
+민연준 입니다🤭
 
   [![myj's github stats](https://github-readme-stats.vercel.app/api?username=sook8878&theme=tokyonight&show_icons=true)](https://github.com/sook8878/github-readme-stats)
 
